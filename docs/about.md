@@ -3,30 +3,11 @@ id: about
 title: About
 ---
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
-
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
-
-Write it in first (I) or third (Your Name Here) person.
-
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
+I am a Software Developer at IBM working in the IBM Cloud Pak for Multicloud Management. I am currently located in Austin, TX and originally from the Bay Area, CA. I am a recent graduate from the University of California, Berkeley and eager to continue learning and developing my technical skills. I love all things dogs, food, and spending time with family and friends. 
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+Software Developer at IBM
+Virtual Grace Hopper Celebration 2020 Attendee
 
-## Recognition
 
-- 2020 Awesome Woman in Technology Award
-
-## Social Media
-
-- Twitter
-- LinkedIn
-- GitHub
